@@ -1,4 +1,4 @@
-![bg](assets/10af3b387d6e66ac5ed6d85bb756be7b.JPG)
+![bg](assets/bg.jpg)
 
 ### 👋 Hi, my name is LaiBaoYuan. I'm a frontend coder.
 
