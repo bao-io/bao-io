@@ -1,7 +1,5 @@
 ![bg](assets/bg.jpg)
 
-### 👋 Hi, my name is LaiBaoYuan. I'm a frontend coder.
-
 ### Languages
 
 ![TypeScript](https://img.shields.io/badge/-TypeScript-000?&logo=TypeScript)
