@@ -26,6 +26,7 @@
 
 ![Rollup.js](https://img.shields.io/badge/-Rollup.js-000?&logo=Rollup.js)
 ![Esbuild.js](https://img.shields.io/badge/-Esbuild.js-000?&logo=Esbuild)
+![Vite.js](https://img.shields.io/badge/-Vite.js-000?&logo=Vite)
 ![Webpack.js](https://img.shields.io/badge/-Webpack.js-000?&logo=Webpack)
 ![Gulp.js](https://img.shields.io/badge/-Gulp.js-000?&logo=Gulp)
 
