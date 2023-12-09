@@ -31,6 +31,7 @@ me.sayHi();
 ![JavaScript](https://img.shields.io/badge/-JavaScript-000?&logo=JavaScript)
 ![Html](https://img.shields.io/badge/-Html-000?&logo=html5)
 ![Css](https://img.shields.io/badge/-Css-000?&logo=Css3&logoColor=007396)
+![Python](https://img.shields.io/badge/-Python-000?&logo=Python&logoColor=007396)
 
 ### Technologies
 
