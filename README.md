@@ -2,7 +2,7 @@
 
 <p align="center">
   <samp>
-    <a href="https://blog.ybopen.cn">me</a> .
-    <a href="https://blog.ybopen.cn/posts">blog</a>
+    <a href="https://yuanbao.dev">me</a> .
+    <a href="https://yuanbao.dev/posts">blog</a>
   </samp>
 </p>
